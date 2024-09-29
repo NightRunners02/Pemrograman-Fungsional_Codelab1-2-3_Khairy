@@ -1,1 +1,1 @@
-- Codelab1-2-3_Pemrogramanfungsional_Khairy
+- Codelab 1, 2, 3 (Pemrogramanfungsional) | GoggleColab
