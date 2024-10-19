@@ -1,1 +1,3 @@
 - Codelab 1, 2, 3 (Pemrograman_Fungsional) | GoggleColab
+---
+- Link Goggle Colab: https://colab.research.google.com/drive/1hsQ4zGSBXjI1hX5ZTJgCfX0ob-EFsxvs
